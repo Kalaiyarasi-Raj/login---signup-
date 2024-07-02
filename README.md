@@ -1,2 +1,2 @@
 # login---signup-
-This Python project implements a library management system where users can add books with details, display the library inventory, filter books by serial number, and borrow books by updating quantities based on user input.
+This HTML project features a responsive login and signup interface styled with CSS. It includes form inputs for email/phone and password fields with user-friendly prompts and actions like login, signup, and password recovery. Background image enhances visual appeal.
